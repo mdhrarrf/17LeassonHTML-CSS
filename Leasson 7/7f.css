@@ -1,0 +1,18 @@
+button {
+    color:white;
+    font-size:20px; 
+    background-color:rgb(63, 63, 216); 
+    padding:15px;
+    width:400px;
+    border:none;
+    border-radius:30px;
+}
+p {
+    color:gray; font-family:Arial;
+}
+input {
+    width:400px;
+    height:30px;
+    border-radius:10px;
+    border:2px solid grey;
+}

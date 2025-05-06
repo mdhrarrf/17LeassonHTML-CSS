@@ -1,0 +1,32 @@
+.inp1 {
+    width:169px;
+} 
+.inp2 {
+    width: 169px;
+}
+input {
+    color:gray;
+    border:1px solid grey;
+    font-family:arial;
+    border-radius:10px;
+    font-size:15px;
+    outline:none;
+    height:50px;
+    padding-left:15px;
+}
+button {
+    display:block;
+    margin-top:10px;
+    font-family:Arial;
+    font-weight:bold;
+    color:white;
+    background-color:rgb(93, 93, 255); 
+    height:55px;
+    border:none;
+    width:380px;
+    border-radius:10px;
+    font-size:20px;
+}
+.inp {
+    margin-top:10px; width: 360px;
+}

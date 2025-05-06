@@ -1,0 +1,43 @@
+body {
+    font-family:Arial;
+}
+
+p {
+    margin-left:10px;
+}
+
+.container {
+    display: inline-flex;
+}
+
+.main {
+    height: 320px;
+    box-shadow: 0px 2px 5px 5px rgb(193, 193, 193);
+    width: 200px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.pspan {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.brspan {
+    color: gray;
+}
+
+button {
+    margin-top: 5px;
+    background-color: rgb(103, 103, 255);
+    border: none;
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+    width: 115px;
+    border-radius: 10px;
+}

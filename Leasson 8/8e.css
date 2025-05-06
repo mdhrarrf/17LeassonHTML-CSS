@@ -1,0 +1,29 @@
+.btn {
+    background-color:black;
+    color:white;
+    width:130px;
+    height:40px;
+    text-align:center;
+    border:none;
+    cursor:pointer;
+    display:inline-block;
+    background-color:rgb(241, 241, 241);
+    color: black;
+}
+input {
+    background-color:rgb(241, 241, 241);
+    border:none;
+    padding:20px;
+    width:300px;
+    color:gray;
+    margin-top:5px;
+}
+p {
+    font-family:Arial;
+    font-size:30px;
+}
+.req {
+    color: white;
+    background: black;
+    margin-right: 15px;
+}

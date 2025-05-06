@@ -1,0 +1,21 @@
+body {
+    font-family:Arial;
+}
+
+div {
+    width: 420px;
+    height: 120px;
+    border: none;
+    background-color: rgb(37, 37, 37);
+}
+
+h2 {
+    color: white;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+p {
+    color: rgb(170, 170, 170);
+    padding-left: 15px;
+}

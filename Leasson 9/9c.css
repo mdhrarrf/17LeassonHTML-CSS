@@ -1,0 +1,14 @@
+div {
+    width: 350px;
+    height: 100px;
+    border: 1px solid gray;
+}
+
+span {
+    font-family: Arial;
+    padding-left: 20px;
+}
+
+button {
+    margin-left: 20px;
+}
