@@ -1,0 +1,13 @@
+.container {
+    display:flex;
+    align-items:center;
+    border:1px solid gray;
+    height:50px;
+    width:stretch;
+    display:inline-flex;
+    gap:300px;
+}
+
+.flex-container > .container > div {
+    background-color: pink;
+}

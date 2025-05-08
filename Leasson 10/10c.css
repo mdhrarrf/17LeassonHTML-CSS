@@ -1,0 +1,31 @@
+div {
+    display:inline-flex;
+    font-family:arial;
+}
+
+img {
+    width: 200px;
+}
+
+.main {
+    display:block;
+    margin-left:10px;
+}
+
+.p1 {
+    margin-left:2px;
+    margin-top:3px;
+    font-weight:bold;
+    font-size:15px;
+    line-height:20px;
+}
+
+.p2 {
+    color:gray;
+    font-size:13px;
+    line-height:20px;
+}
+
+.mainn {
+    margin-top: 5px;
+}
